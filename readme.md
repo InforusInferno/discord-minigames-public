@@ -1,3 +1,10 @@
+# Dependencies
+
+[Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome)
+[TS-NODE](https://www.npmjs.com/package/ts-node)
+[DOTENV](https://www.npmjs.com/package/dotenv)
+
+
 # Welcome to discord Minigames
 this bot holds a collection of the oldest
 and newest, and the most fun minigames in the world
@@ -13,4 +20,12 @@ as of now the bot only has a M-ping.
 (public version)
 
 
-# version 0.0.1
+# To run
+if you for some reason want to run this.
+make sure you have the Dependencies.
+
+and then in the src folder do `ts-node index.ts`
+and it should run.
+
+
+# version "LOAD"
