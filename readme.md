@@ -1,7 +1,9 @@
 # Dependencies
 
 [Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome)
+
 [TS-NODE](https://www.npmjs.com/package/ts-node)
+
 [DOTENV](https://www.npmjs.com/package/dotenv)
 
 
